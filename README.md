@@ -1,3 +1,3 @@
-# html-css-javascript-johnhokins-cousera
+# html-css-javascript-johnhopkins-cousera
 cousera course repo
 
