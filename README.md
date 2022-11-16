@@ -1,3 +1,3 @@
 # html-css-javascript-johnhopkins-cousera
-cousera course repo
+cousera course repo (change on purpose)
 
